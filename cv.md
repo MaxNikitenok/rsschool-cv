@@ -59,6 +59,14 @@ Nothing yet…
 
 ## **Courses**
 
+ * Sololean HTML course (completed)
+ ![](https://www.sololearn.com/Certificate/1014-3550911/jpg/)
+ * Sololearn CSS course (completed)
+ ![](https://www.sololearn.com/Certificate/1023-3550911/jpg/)
+ * The Modern JavaScript Tutorial on /learn.javascript.ru (in progress)
+ * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+
 ## **English**
 
 (A1) I continue my education...
